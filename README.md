@@ -1,2 +1,2 @@
 # DataScienceProjects
-Initial dara science projects
+Initial data science projects
